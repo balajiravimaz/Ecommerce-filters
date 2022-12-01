@@ -1,3 +1,3 @@
 # Javascript E-Commerce Shopping Filters
 
-<a href="https://balajiravi-projects.netlify.app/notes-app/index.html">See Live Demo Here</a>
+<a href="https://balajiravi-projects.netlify.app/product-filter/index.html" target="_blank">See Live Demo Here</a>
